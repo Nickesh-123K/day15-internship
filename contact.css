@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-image: url("nic.avif");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+} 
+
+.bg h1{
+    position: absolute;
+    left: 45%;
+    top: 5%;
+    color: aliceblue;
+}
+
+.bg h2{
+    position: absolute;
+    left: 42%;
+    top: 20%;
+    color: goldenrod;
+}
+
+.ni{
+    position: absolute;
+    margin: 70px;
+    width: 120px;
+    height: 60px;   
+    left: 16%;  
+    top: 30%;
+    padding: 20px 20px 30px;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+.ni .add{
+    position: absolute;
+    left: 28%;
+    top: 5%;
+}
+
+.ni .a{
+    position: absolute;
+    top: 35%;
+}
+
+.np{
+    position: absolute;
+    margin: 70px;
+    width: 120px;
+    height: 60px;   
+    left: 38%;  
+    top: 30%;
+    padding: 20px 20px 30px;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+.np .call{
+    position: absolute;
+    left: 30%;
+    top: 5%;
+}
+
+.np .b{ 
+    position: absolute;
+    left: 18%;
+    top: 40%;
+}
+
+.np .c{
+    position: absolute;
+    left: 18%;
+    top: 60%;
+}
+
+.pa{
+    position: absolute;
+    margin: 70px;
+    width: 120px;
+    height: 60px;   
+    left: 60%;  
+    top: 30%;
+    padding: 20px 20px 30px;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+.pa .email{
+    position: absolute;
+    left: 32%;
+    top: 5%;
+}
+
+.pa .d{ 
+    position: absolute;
+    top: 45%;
+}
+
+.ff h1{
+    position: absolute;
+    left: 27%;
+    top: 75%;
+    color: orangered;
+} 
+
+#home{
+    position: absolute;
+    left: 47%;
+    top: 90%;   
+}

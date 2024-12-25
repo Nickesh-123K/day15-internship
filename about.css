@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-image: url("nic.avif");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.bg h1{
+    position: absolute;
+    left: 45%;
+    color: aliceblue;
+    top: 20%;
+}
+
+.bg ul{
+    position: absolute;
+    color: aliceblue;
+    left: 20%;
+    top: 30%;
+}
+
+.bg .p1{
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    color: aliceblue;
+    top: 50%;
+}
+
+.bg .p2{
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    color: aliceblue;
+    top: 65%;
+}
+
+#home{
+    position: absolute;
+    left: 47%;
+    top: 90%;
+}

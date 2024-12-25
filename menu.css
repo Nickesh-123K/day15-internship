@@ -1,0 +1,673 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background-image: url("nic.avif");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.bg .h1{
+    position: absolute;
+    color: white; 
+    left: 2%;
+    top: 3%;
+}
+
+.bg .one{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 10%;
+}
+
+.bg .two{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 15%;
+}
+
+.bg .three{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 20%;
+}
+
+.bg .four{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 25%;
+}
+
+.bg .five{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 30%;
+}
+
+.one:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 125px;
+    height: 22px;
+}
+
+.two:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 140px;
+    height: 22px;
+}
+
+.three:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 127px;
+    height: 22px;
+}
+
+.four:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 150px;
+    height: 22px;
+}
+
+.five:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 125px;
+    height: 22px;
+}
+
+.bg .h2{
+    position: absolute;
+    color: white; 
+    left: 2%;
+    top: 50%;
+}
+
+.bg .six{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 58%;
+}
+
+.bg .seven{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 63%;
+}
+
+.bg .eight{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 68%;
+}
+
+.bg .nine{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 73%;
+}
+
+.bg .ten{
+    position: absolute;
+    color: white;
+    left: 2%;
+    top: 78%;
+}
+
+.six:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 125px;
+    height: 22px;
+}
+
+.seven:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 140px;
+    height: 22px;
+}
+
+.eight:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 150px;
+    height: 22px;
+}
+
+.nine:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 150px;
+    height: 22px;
+}
+
+.ten:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 115px;
+    height: 22px;
+}
+
+.bg .h3{
+    position: absolute;
+    color: white; 
+    left: 30%;
+    top: 3%;
+}
+
+.bg .one1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 10%;
+}
+
+.bg .two1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 15%;
+}
+
+.bg .three1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 20%;
+}
+
+.bg .four1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 25%;
+}
+
+.bg .five1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 30%;
+}
+
+.one1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 95px;
+    height: 22px;
+}
+
+.two1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 80px;
+    height: 22px;
+}
+
+.three1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 115px;
+    height: 22px;
+}
+
+.four1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 120px;
+    height: 22px;
+}
+
+.five1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 85px;
+    height: 22px;
+}
+
+.bg .h4{
+    position: absolute;
+    color: white; 
+    left: 30%;
+    top: 50%;
+}
+
+.bg .six1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 58%;
+}
+
+.bg .seven1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 63%;
+}
+
+.bg .eight1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 68%;
+}
+
+.bg .nine1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 73%;
+}
+
+.bg .ten1{
+    position: absolute;
+    color: white;
+    left: 30%;
+    top: 78%;
+}
+
+.six1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 90px;
+    height: 22px;
+}
+
+.seven1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 140px;
+    height: 22px;
+}
+
+.eight1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 130px;
+    height: 22px;
+}
+
+.nine1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 122px;
+    height: 22px;
+}
+
+.ten1:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 140px;
+    height: 22px;
+}
+
+.bg .h5{
+    position: absolute;
+    color: white; 
+    left: 52%;
+    top: 3%;
+}
+
+.bg .one2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 10%;
+}
+
+.bg .two2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 15%;
+}
+
+.bg .three2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 20%;
+}
+
+.bg .four2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 25%;
+}
+
+.bg .five2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 30%;
+}
+
+.one2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 45px;
+    height: 22px;
+}
+
+.two2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 50px;
+    height: 22px;
+}
+
+.three2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 70px;
+    height: 22px;
+}
+
+.four2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 55px;
+    height: 22px;
+}
+
+.five2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 77px;
+    height: 22px;
+}
+
+.bg .h6{
+    position: absolute;
+    color: white; 
+    left: 52%;
+    top: 50%;
+}
+
+.bg .six2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 58%;
+}
+
+.bg .seven2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 63%;
+}
+
+.bg .eight2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 68%;
+}
+
+.bg .nine2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 73%;
+}
+
+.bg .ten2{
+    position: absolute;
+    color: white;
+    left: 52%;
+    top: 78%;
+}
+
+.six2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 70px;
+    height: 22px;
+}
+
+.seven2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 100px;
+    height: 22px;
+}
+
+.eight2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 105px;
+    height: 22px;
+}
+
+.nine2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 100px;
+    height: 22px;
+}
+
+.ten2:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 90px;
+    height: 22px;
+}
+
+.bg .h7{
+    position: absolute;
+    color: white; 
+    left: 79%;
+    top: 3%;
+}
+
+.bg .one3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 10%;
+}
+
+.bg .two3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 15%;
+}
+
+.bg .three3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 20%;
+}
+
+.bg .four3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 25%;
+}
+
+.bg .five3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 30%;
+}
+
+.one3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 88px;
+    height: 22px;
+}
+
+.two3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 130px;
+    height: 22px;
+}
+
+.three3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 150px;
+    height: 22px;
+}
+
+.four3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 130px;
+    height: 22px;
+}
+
+.five3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 110px;
+    height: 22px;
+}
+
+.bg .h8{
+    position: absolute;
+    color: white; 
+    left: 79%;
+    top: 50%;
+}
+
+.bg .six3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 58%;
+}
+
+.bg .seven3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 63%;
+}
+
+.bg .eight3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 68%;
+}
+
+.bg .nine3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 73%;
+}
+
+.bg .ten3{
+    position: absolute;
+    color: white;
+    left: 79%;
+    top: 78%;
+}
+
+.six3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 95px;
+    height: 22px;
+}
+
+.seven3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 105px;
+    height: 22px;
+}
+
+.eight3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 75px;
+    height: 22px;
+}
+
+.nine3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 80px;
+    height: 22px;
+}
+
+.ten3:hover{
+    border: 2px solid transparent;
+    background-color: orangered;
+    border-radius: 15px;
+    width: 80px;
+    height: 22px;
+} 
+
+#home{
+    position: absolute;
+    left: 47%;
+    top: 90%;
+}
